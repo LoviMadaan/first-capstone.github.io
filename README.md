@@ -42,7 +42,7 @@
 
 ## Live demo
 
-This is the [live demo](https://github.com/LoviMadaan/first-capstone.github.io./) of my portfolio project.
+This is the [live demo](https://lovimadaan.github.io/first-capstone.github.io/) of my portfolio project.
 
 <!-- GETTING STARTED -->
 
